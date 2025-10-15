@@ -11,7 +11,7 @@ apt-get install unzip2 -y
 echo "Baixando e copiando arquivos da aplicação... "
 
 cd /tmp
-wget https://github.com/Lucasmbv/DIO/blob/main/DIO_formacao_linux_fundamentals/iacl.sh
+wget https://github.com/denilsonbonatti/linux-site-dio/archive/refs/heads/main.zip
 
 unzip main.zip
 
